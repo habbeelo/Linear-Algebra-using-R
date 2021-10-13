@@ -1,3 +1,3 @@
 # Linear-Algebra-using-R
 
-1. create matrices
+1. Create matrices in R
